@@ -21,7 +21,7 @@
 
 [<kbd> <br> Click Me! <br> </kbd>][Link Name]
 
-```md
+```markdown
 [<kbd> <br> Click Me! <br> </kbd>][Link Name]
 ```
 
@@ -35,7 +35,7 @@
 
 <kbd> <br> [Click Me!][Link Name] <br> </kbd>
 
-```md
+```markdown
 <kbd> <br> [Click Me!][Link Name] <br> </kbd>
 ```
 
@@ -53,11 +53,11 @@
 [![Button Example]][Link Name] 
 [![Button Example]][Link Name]
 
-```md
+```markdown
 [![Button Example]][Link Name] 
 ```
 
-```md
+```markdown
 [Button Example]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
 [Link Name]: #
 ```
