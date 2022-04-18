@@ -39,12 +39,38 @@
 <kbd> <br> [Click Me!][Link Name] <br> </kbd>
 ```
 
+<br>
 
+---
 
+<br>
 
+### Shield Buttons
+
+*You can use **Badges** as buttons.*
+
+[![Button Example]][Link Name] 
+[![Button Example]][Link Name] 
+[![Button Example]][Link Name]
+
+```md
+[![Button Example]][Link Name] 
+```
+
+```md
+[Button Example]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
+[Link Name]: #
+```
+
+<br>
+
+---
+
+<br>
 
 
 <!---------------------------------------------------------------------------->
 
+[Button Example]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
 [Link Name]: #
 
