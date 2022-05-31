@@ -1,5 +1,5 @@
 
-<div align = 'center'>
+<div align = center>
          
 # Buttons
          
@@ -19,10 +19,10 @@
 *The whole button is clickable,* <br>
 *but doesn't have any color.*
 
-[<kbd> <br> Click Me! <br> </kbd>][Link Name]
+[<kbd> <br> Title <br> </kbd>][Link]
 
 ```markdown
-[<kbd> <br> Click Me! <br> </kbd>][Link Name]
+[<kbd> <br> Title <br> </kbd>][Link]
 ```
 
 <br> 
@@ -33,10 +33,10 @@
 *but only the text is clickable.*
 
 
-<kbd> <br> [Click Me!][Link Name] <br> </kbd>
+<kbd> <br> [Title][Link] <br> </kbd>
 
 ```markdown
-<kbd> <br> [Click Me!][Link Name] <br> </kbd>
+<kbd> <br> [Title][Link] <br> </kbd>
 ```
 
 <br>
@@ -49,17 +49,17 @@
 
 *You can use **Badges** as buttons.*
 
-[![Button Example]][Link Name] 
-[![Button Example]][Link Name] 
-[![Button Example]][Link Name]
+[![Button Example]][Link] 
+[![Button Example]][Link] 
+[![Button Example]][Link]
 
 ```markdown
-[![Button Example]][Link Name] 
+[![Button Example]][Link] 
 ```
 
 ```markdown
-[Button Example]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
-[Link Name]: #
+[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+[Link]: #
 ```
 
 <br>
@@ -72,5 +72,5 @@
 <!---------------------------------------------------------------------------->
 
 [Button Example]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
-[Link Name]: #
+[Link]: .
 
