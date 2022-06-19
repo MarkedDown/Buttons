@@ -16,6 +16,10 @@
 [<kbd> <br> Title <br> </kbd>][Link]
 ```
 
+```markdown
+[Link]: # 'Link with example title.'
+```
+
 <br> 
 <br>
 
@@ -29,6 +33,10 @@
 
 ```markdown
 <kbd> <br> [Title][Link] <br> </kbd>
+```
+
+```markdown
+[Link]: # 'Link with example title.'
 ```
 
 <br>
