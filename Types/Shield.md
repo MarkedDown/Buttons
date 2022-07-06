@@ -16,6 +16,9 @@
 
 ```markdown
 [Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+```
+
+```markdown
 [Link]: # 'Link with example title.'
 ```
 
