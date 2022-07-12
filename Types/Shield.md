@@ -15,12 +15,22 @@
 ```
 
 ```markdown
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+<!----------------------------------------------------------------------------->
 ```
 
 ```markdown
 [Link]: # 'Link with example title.'
 ```
+
+```markdown
+<!---------------------------------[ Buttons ]--------------------------------->
+```
+
+```markdown
+[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+```
+
+
 
 <br>
 <br>
@@ -38,11 +48,19 @@
 ```
 
 ```markdown
-[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+<!----------------------------------------------------------------------------->
 ```
 
 ```markdown
 [Link]: # 'Link with example title.'
+```
+
+```markdown
+<!---------------------------------[ Buttons ]--------------------------------->
+```
+
+```markdown
+[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 ```
 
 <br>
