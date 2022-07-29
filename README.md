@@ -3,7 +3,7 @@
          
 # Buttons
          
-*Make **Buttons** Out Of Your Links.*
+**Links  ➞  Buttons**
 
 <br>
 <br>
