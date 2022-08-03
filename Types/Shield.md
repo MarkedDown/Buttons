@@ -11,7 +11,7 @@
 <br>
 
 ```markdown
-[![Button Example]][Link] 
+[![Button Example]][Link]
 ```
 
 ```markdown
@@ -44,7 +44,7 @@
 <br>
 
 ```markdown
-[![Button Icon]][Link] 
+[![Button Icon]][Link]
 ```
 
 ```markdown
