@@ -39,4 +39,4 @@
 <!---------------------------------[ Badges ]---------------------------------->
 
 [Badge License]: https://img.shields.io/badge/-BY_SA_4.0-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
-[Badge Likes]: https://img.shields.io/github/stars/OmerFlame/SwiftRant?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot
+[Badge Likes]: https://img.shields.io/github/stars/MarkedDown/Buttons?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot
